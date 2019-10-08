@@ -1,0 +1,17 @@
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\bin\Debug\CagriMerkeziUygulamasi.exe.config
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\bin\Debug\CagriMerkeziUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\bin\Debug\CagriMerkeziUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Form1.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Müs.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Tarife.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Kam.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Gorev.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Ode.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Kayit.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Birim.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\CagriMerkeziUygulamasi\CagriMerkeziUygulamasi\obj\Debug\CagriMerkeziUygulamasi.Sube.resources
